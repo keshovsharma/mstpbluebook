@@ -1,0 +1,39 @@
+---
+title: "UofR MSTP Bluebook"
+author: "Students of the MD-PhD Program"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    config:
+      sharing: false
+      toc:
+        collapse: section
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: keshovsharma/mstpbluebook
+description: "A student-to-student guide for efficiently and happily getting your MD and PhD."
+---
+
+# Preface {-}
+
+The URMC MSTP “Bluebook” is a collection of basic information, advice, and wisdom relevant to each step of the MD-PhD training process. It is made by students of the program, to help us maximize opportunities and minimize pitfalls across our training. This document was born from the need for information about the best practices of training to be aggregated in one place, instead of dispersed across multiple medical, graduate, and MSTP specific documents, emails, and presentations.
+
+The basic structure of the book contains three major parts. The first part, is a single chapter, are called “Short Sheets”. These are collections of bullet points/checklists with internal and external links to information that our students of this book believe is important for that specific phase of training. The chapters the refer to a time period (Early Medical Years, Pre-Qualification, etc.) contain extended length sections about topics that are pertinent to our program and advice aggregated from our seniors. These are longer form reading for those that are curious to know more or get broader points of view on certain topics. The chapter, title "Special Topics", is a collection of sections that are pertinent to all phases training. There isn't a *best time* to read these sections apart from the time at which they become relevant to your life.
+
+The current form of the book was created using bookdown for R. While this format is slightly cumbersome for those who are used to using Microsoft Word, bookdown allows for the simultaneous creation of a website based book (here), an ebook, and PDF book that provides the same set of information in multiple formats that allow protability to what every format you would like to read in. Additionaly, while editors are generally repsonsible for changing aspects of this book, anyone with a Github account can submit changes for direct review. For an example of what is possible with the bookdown package in R, please see a more comprehensive build of a book provided by the creators of bookdown.
+
+
+## How to Use this Book {-}
+
+
+## How to Edit This Book {-}
+
+The simplest way to edit this book is to [email the editors](mailto:keshov_sharma@urmc.rochester.edu) with your contribution - no matter what form. We really mean it! Feel free to forward any suggestions, minor edits, long emails that you have sent to a friend that might be of use, or ask for a personal chat. Our editors are happy to work with whatever form of advice you have and integrate it into the blue book.
+
+You can also have a look at our [current initiatives](#current-inits) to see if there are topics that we are working on, that you would like to contribute to. If there is something of interest, [email us](mailto:keshov_sharma@urmc.rochester.edu) and we'll get you linked up with the project.
+
+
+## How the Editors Edit This Book {-}
