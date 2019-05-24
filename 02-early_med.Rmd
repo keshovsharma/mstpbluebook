@@ -4,34 +4,51 @@
 
 ### Very general guidance on finding a place to live {-}
 
-Medical school is a sharp transition in workflow, that requires a lot of your time and energy. As such, even generally short commutes or coordinating a complex parking situation can get to be a thorn in your side on heavy studying days. Getting some extra sleep or being able to zip out to the library when you really need piece and quiet is a real plus if you're pulling late nights.
+*Author: [Keshov K. Sharma](mailto:keshov_sharma@urmc.rochester.edu)*
 
-Because of this, it is generally recommended to find a place close to the University for at least your first year in the program. Considering you'll be spending 7-9 years here, using the first year to hammer down your medical school workflow and get a feel for Rochester is a generally good investment of your time. For single people, this tends to manifest as getting a room/splitting a house in the White Coat or accompanying neighborhoods or getting a room in Goler House. For couples, this tend to be getting an apartment at University Apartments or one of the many apartment complexes nearby.
+Being a medical student requires a workflow a lot of demands on your time and energy. As such, even generally short commutes or coordinating a complex parking situation can become a thorn in your side on heavy studying days. Getting some extra sleep or being able to zip out to the library when you really need peace and quiet is a real plus when pulling late nights.
 
-This one year spent getting your footing can really pay off in the long run. Even if you end up wanting to move farther from the University, the one year spent getting your footing and exploring the variety of neighborhoods in Rochester allows you to get the most out of your housing situation in the back 6-8 years without putting to much stress on you at the transition point.
+Because of this, it is generally recommended to find a place close to the University for at least your first year in the program. Since you'll be spending 7-9 years here, using the first year to hammer down your medical school workflow and get a feel for Rochester is a good investment of your time. For single people, this tends to manifest as getting a room/splitting a house in the White Coat area or getting a room in Goler House. For couples, getting an apartment at University Apartments or one of the many apartment complexes nearby is a solid choice.
+
+One "transitional" year can really pay off in the long run. Even if you end up wanting to move farther from the University, the one year spent getting your footing and exploring the variety of neighborhoods in Rochester allows you to get the most out of your housing situation in the back 6-8 years without putting to much stress on you at the transition point.
+
+### To do or not to do; an incoming rotation... {-#inc_rot}
+
+*Author: [Keshov K. Sharma](mailto:keshov_sharma@urmc.rochester.edu)*
+
+This is an age old question that many a-incoming MSTPer struggles with. For most, it is a battle within one's self that hinges upon a much simpler question that we will all continually ask ourselves:
+
+> *Do I keep working, or do I take a break?*
+
+Realistically, only you can answer this question for yourself; however, there are a few key points that you should consider when making this decision.
+
+#### *The rotation is truly optional* {-}
+
+Seriously, [check it](https://www.urmc.rochester.edu/education/md-phd/students/student-handbook/curriculum/year-one.aspx). It is optional on a policy stand-point. It is optional from a social stand-point. Many of our student do this rotation and many do not, but the unifying factor is that we all understand that it is a personal choice.
+
+#### *It will only impact your career here if you want it to* {-}
+
+In line with the previous point, there are plenty of student who opt not to do an incoming rotation. At our regular end-of-the-year panel discussion, where our graduating students pass down wisdom to use, no one (in recent memory) has cited incoming rotation as a particularly pertinent element of their career. That being said, there are plenty of students that have really enjoyed doing this first rotation, especially when rotating with a PI that they have a pre-established relationship with. While medical school typically consumes most of your time, there have been cases where students engaged with research and their research mentors during the medical school years and felt that they really benefitted from this. The bottom line is that this rotation could help you advance your research interests if you invest in that, but skipping is not a hindrance to your training.
+
+#### *You get paid while you are here* {-}
+
+This is as straightforward as can be; you're starting your ~~job~~ training earlier and you're getting paid earlier. If ever there was a clearer reason to work instead of take a break, it is this one.
+
+#### *The incoming summer is one of the last true breaks that you will get* {-}
+
+Especially for those transitioning directly from a college or masters program, the time between graduating and starting your medical training is too short to start up new projects but long enough to have a lot of fun. For most of us, this period of time represents one of the last, if not *the* last time, that you spend more than a few weeks away from all the projects, studying, writing, etc. that comes with the dual career. You will be required to do a rotation between the M1 and M2 summer. M2 summer will have you invested in STEP studying and then you join another rotation or rejoin your lab. In graduate school, there is always another paper to read, manuscript to revise, abstract to write, or emails to send to move work along. M3 and M4 won't respect any sense of summer boundaries. This is not to say that you won't find time for a vacation, but few people have ever found a 2+ month period where they were not beholden to career commitments during their training. Many students choose to do some traveling, see family, and/or take time with a significant other during this time.
+
+#### *A general recommendation* {-}
+
+Returning to our simplified question, *do I keep working, or do I take a break?*, one can only make a solid recommendation to those on the extreme ends:
+
+- **If you are a current college senior, having interviewed while finishing college, the general recommendation from almost all of your peers is that you take the summer off before starting medical school.**
+- If you ended a job early, got your share of travel/seeing family well before school starts, and don't have much else to do - get moving on a rotation!
+
+Beyond these scenarios, you'll get a mix of advice and you will have to figure out what is applicable to you. You should always feel free to contact any of our MSTP students for advice or input - an editor of this book would happily speak with you if you reached out. If you find yourself truly unable to decide, flip a coin. If you don't the result, pretend it landed on the other side.
 
 ## Advice for Courses
 
 ### HSF
 
 ### MTC
-
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
-
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
-
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].

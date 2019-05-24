@@ -59,4 +59,18 @@ In the future, we are planning on having Alysha either create her own Github acc
 - Install Bookdown (preferably thorugh RStudio)
 - Install DiagrammR (preferably through RStudio)
 
+### Authorship {-}
+
+As we are a bunch of academics, we technically have to provide some authorship guidelines for written work... right? Thus, the general authorship policy is as follows:
+
+- Authorship is offered at the __Heading 3 level__ for the chapters "Early Medical Years" through "Special Topics", such that an author or authors are credited with the contents of everything under that heading. This basically means that people get credit for an "article" written under a "section" and "chapter" but we're only crediting the chapters that contain comprehensive writing (i.e. no authorship for bullet points on a Short Sheet)
+
+- Authorship is depicted with the authors name displayed in their choice of style with a hyperlink to a legitimate method of contact. Usually, this would look something like [Keshov K. Sharma](mailto:keshov_sharma@urmc.rochester.edu) with the link opening to an email to the author. Twitter/Facebook links or links to Contact Me pages on a personal website are also acceptable.
+
+- Authorship from a group of people is also acceptable, as long as there is at least one person who can be contacted. As such, "by [The MSTP Class of 2023](mailto:keshov_sharma@urmc.rochester.edu)" with the hyperlink pointing to Keshov K. Sharma's email is acceptable.
+
+- Authorship should be granted to anyone who wrote a sizable portion of the current body text or significantly contributed to the formation of the current body text; but not to those who provided edits, suggestions, or minor corrections. If anyone really cares, authors should be lised in order of most contribution to least and, if need be, authorship and amount of contribution is decided by editors not involved in the authorship process of a particular contriubtion. As such, **when articles have been significantly revised by future years, original authors can be dropped by editors** to make space for those making more recent, sizable contributions to the current form of the book. 
+
+- Authors have the option of switching between a credited and anonamymous contribution at any time. 
+
 ## Works Cited {-}

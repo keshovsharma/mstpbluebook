@@ -1,5 +1,7 @@
 # Short Sheets {-}
 
+The following sections contain "Short Sheets", which are bullet pointed lists with links to more comprehensive information. The impetus for these "Short Sheets" came from wanting to find a way to present the right information to our students, at the right time in their career. Instead of simply creating another collection of dense information, the "Short Sheets" are essentially checklists (inspired, in-part, [by the Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/)) that also link to more dense information. If you can safely "check off" a bullet point, saying to yourself *done that* or *I know about that*, then feel free to move past that point. If you'd like our peer input on that bullet point, read it fully and follow the links as way to get started. Remember to make time and check back for the Short Sheet most relevant to your current stage of training. Also, be mindful that not all the information in the book is linked up to a bullet point somewhere (esspecially information in the appendicies)!
+
 ## M1: Pre-matriculation {-}
 
 **Please note that it is virtually impossible to list out all the things that you need to do before matriculating to the medical school. For the most part, the medical school and MSTP program will guide you through this process. Highlighted here are resources for aspects of the transition that people usually need help with and do not always have a guide for.**
@@ -8,7 +10,7 @@
 
 - **Find a place to live:** [The Medical School’s Student-To-Student  Guide p. 34](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/education/md/documents/bluebook.pdf) has a fantastic section detailing housing. Also, read our quick blurb on [a general format for finding a place to live](#very-general-guidance-on-finding-a-place-to-live).
 
-- **Decide on a summer rotation:** Rotations in the summer before entering medical school [are optional (paragraph 1)](https://www.urmc.rochester.edu/education/md-phd/students/student-handbook/curriculum/year-one.aspx). Read our section on [what to consider for an incoming rotation](#to-do-or-not-to-do;-an-incoming-rotation...) if you would like our peer perspective on this choice.
+- **Decide on a summer rotation:** Rotations in the summer before entering medical school [are optional (paragraph 1)](https://www.urmc.rochester.edu/education/md-phd/students/student-handbook/curriculum/year-one.aspx). Read our section on [what to consider for an incoming rotation](#inc_rot) if you would like our peer perspective on this choice.
 
 ### Things to Consider {-}
 
