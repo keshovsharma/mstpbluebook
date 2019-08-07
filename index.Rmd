@@ -35,5 +35,6 @@ The simplest way to edit this book is to [email the editors](mailto:keshov_sharm
 
 You can also have a look at our [current initiatives](#current-inits) to see if there are topics that we are working on, that you would like to contribute to. If there is something of interest, [email us](mailto:keshov_sharma@urmc.rochester.edu) and we'll get you linked up with the project.
 
+**For a limited time following the 2019 Retreat**, open suggestions and topics for the Blue Book can be contributed using a [Google Doc at this link](https://docs.google.com/document/d/10GLJF2vOYVSbohU0lIvTUkGSo01jUe7Btx5Ho6zcv3Q/edit?usp=sharing). Please remember that this link is technically open to the public and your contribution is thus anonymous. This does allow you to provide honest suggestions and we ask that you phrase your contributions politely.
 
 ## How the Editors Edit This Book {-}
