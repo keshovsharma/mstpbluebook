@@ -47,8 +47,8 @@ Returning to our simplified question, *do I keep working, or do I take a break?*
 
 Beyond these scenarios, you'll get a mix of advice and you will have to figure out what is applicable to you. You should always feel free to contact any of our MSTP students for advice or input - an editor of this book would happily speak with you if you reached out. If you find yourself truly unable to decide, flip a coin. If you don't the result, pretend it landed on the other side.
 
-## Advice for Courses
+## Advice for Courses {-}
 
-### HSF
+### HSF {-}
 
-### MTC
+### MTC {-}
