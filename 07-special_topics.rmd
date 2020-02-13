@@ -1,8 +1,10 @@
 # Special Topics {-}
 
+This section is a "catch all" section for the topics that cannot readily be restricted to a single portion of your training.
+
 ## Taxes {-}
 
-*Author: [Keshov K. Sharma](mailto:keshov_sharma@urmc.rochester.edu)*
+*Authors: [Keshov K. Sharma](mailto:keshov_sharma@urmc.rochester.edu) and Colleen Schneider*
 
 ### Taxes, in general... {-}
 
@@ -21,6 +23,12 @@ This tax "stuff" is not intuitive, so if you have questions or need help, be sur
 Based on current Federal and NYS Tax Brackets, I have personally found that cutting out $175 from each paycheck and putting it in a separate savings account is sufficient to cover my tax bills. Basically, I set up a separate account (savings, for the higher percentage) at my bank and automatically transfer $175 from each paycheck to the account. I estimate my tax bill each season (using those sheets) and pay my estimated tax payments to the Fed and NYS each quarter. Over the years, this account has generally grown every so slightly, which means I could probably reduce the $175 to $150. However, given the laundry list of things that we need to save for, it doesn't hurt to stash some extra cash away. 
 
 If you're looking set up a bank account with a branch that is physically accessible to the medical center, the [URMC Student-To-Student Guide has section on local banks on page 49.](https://www.urmc.rochester.edu/medialibraries/urmcmedia/education/md/documents/bluebook.pdf)
+
+### Filing Taxes {-}
+
+Please be aware that turbotax is free (any level of the software including submitting to multiple states, so even those with complicated tax situations can capitlize on this offer) to anyone who makes less than $34,000 per year under the free file program ([other software is available for free if you make less than $66,000](https://apps.irs.gov/app/freeFile/)), but you have to go through a [side webpage](https://turbotax.intuit.com/taxfreedom/) to access this free offer because Turbo Tax doesn’t want you to know about it and click the see if you qualify button to start. Do this at the beginning of filing because if you enter things in other versions of turbo tax they won’t transfer to Turbo Tax Freedom. In general you want to use Turbo Tax Freedom and not Turbo Tax Free File, because the latter is not actually free if you have a complicated tax situation but the former is. 
+
+The correct place to enter fellowship income, per IRS, and per prompts in TurboTax (ff your lucky to hit the prompt), is in the Wages, Salaries, & Tips Worksheet. You will need to locate that worksheet in the forms area in TurboTax. Enter it in the Scholarship line: Line 13. The system will then automatically put in on 1040 line 7, and add SCH as the prefix. It seems that Turbo Tax does not have the option to enter it in via the step-by-step area. 
 
 ### The Incoming Hiccup {-}
 

@@ -2,7 +2,11 @@
 
 ## Student Council Minutes {-}
 
-In the future, we will be housing the most recent minutes from student council in this section.
+Links to recent student council minutes are provided here, in case you can't find that email :P
+
+[2-2-20 Minutes](https://docs.google.com/document/d/1gIxQGDpXbK2rwJZiYExuOJTKea-ypwjiy4baL8bSroU)
+[12-17-19 Minutes](https://docs.google.com/document/d/11KvmKkDxuw9oU082dASCgl1ZlzMjbAaCpIuSpp_nRa0/edit)
+
 
 ## Editors Notes {-}
 
@@ -10,21 +14,15 @@ This section is dedicated documentation for the editors of this blue book. It de
 
 ### Current Initiatives {-#current-inits}
 
-**Develop content for our incoming class**. Considering that we have incoming students that could very directly benefit from this book and it's format, we should leverage this fact to push us to write the relevant sections and get feedback from our students as they make their transitions.  Topics include:
+**Finalize Advice Sections for M1 and M2 classes**. We would like to have *short* advice sections for M1 and M2 classes. This is mostly to cover aspects of advice that are not already addressed in the URMC Student to Student Guide. We invite ANY input for these topics and you can see the blank headings within the book. 
 
-- Doing an incoming summer rotation *(Keshov)*
-- Saving money in graduate school *(need someone)*
-- Finding a place to live *(need someone)*
+**Develop content for Pre-Qual Graduate School**. Content around transitions, doing so smoothly, and adressing MSTP specific topics is lacking in this book and in many other places. Right now, the following articles are lined up for pre-qual graduate school and are currently being worked on:
 
-**Develop content related to STEP 1 preparations**. Out M2s have just recently gotten through STEP 1. Considering they have also accounted for the new policies around timing for the exam and still have prep strategies fresh in their minds, it would be wonderful to have input from our M2/G1s about how to plan and prep for STEP 1. **This is an area where we need volunteers to step up, work with editors, and get some stuff written**.
+- Finding a Mentor (Uday and Keshov)
+- Concise Approach to Writing and F30 (Annette and Keshov)
+- Approach to Longitondal Clerkships (Keshov)
 
-**Decide on the correct time-points for Short-Sheets**. We need to make some decisions about what short-sheets (i.e. when in someone's career) they should check-in for information.
-
-**Follow-up with previous topics of interest**.
-
-- Choosing a mentor *(Keshov and Uday)*
-- Starting a family *(Laura and Catherine)*
-- Garner email advice from past years *(Keshov)*
+**Writing About Topics that Span Years**. We need some more people to pick up topics that across years, like buying a house, etc.
 
 ### Workflow {-}
 
