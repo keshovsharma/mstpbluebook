@@ -25,16 +25,24 @@ The basic structure of the book contains three major parts. The first part, is a
 
 The current form of the book was created using bookdown for R. While this format is slightly cumbersome for those who are used to using Microsoft Word, bookdown allows for the simultaneous creation of a website based book (here), an ebook, and PDF book that provides the same set of information in multiple formats that allow protability to what every format you would like to read in. Additionaly, while editors are generally repsonsible for changing aspects of this book, anyone with a Github account can submit changes for direct review. For an example of what is possible with the bookdown package in R, please see a more comprehensive build of a book provided by the creators of bookdown.
 
-
 ## How to Use this Book {-}
+
+**Use the Short Sheets**. This bears repeating..... **USE THE SHORT SHEETS**. For most people, digesting random, somewhat large pieces of advice regarding things in the future or what you should have done in the past is a time waste. The core pursuit of this project is for our MSTP students to be presented with the information that they need, *when they need it*. As such, while the bulk of information rests in the articles, the short sheets point you to that information at time relevant to your career. Therefore, while an article finds its  home in one of the sections, pieces of that article will be referred to throughout one's career. For example, while the "Finding a Mentor" article is housed in the Pre-Qualification Graduate Years, many of the points in the article are relevant to Pre-matriculated and M1 students. As such, it's better that you look at the short sheet and link to the relevant portions of an article than read the all the content of a section assuming it's relevant at that time.
+
+
+The primary suggestion is to use each point on the Short Sheet relevant to your current stage as a checklist item. Read or address the issue from that item and move on. If you do so, you'll breeze by most of the hang-ups that have tripped up your predecessors. 
 
 
 ## How to Edit This Book {-}
 
 The simplest way to edit this book is to [email the editors](mailto:keshov_sharma@urmc.rochester.edu) with your contribution - no matter what form. We really mean it! Feel free to forward any suggestions, minor edits, long emails that you have sent to a friend that might be of use, or ask for a personal chat. Our editors are happy to work with whatever form of advice you have and integrate it into the blue book.
 
-Another method that we are piloting for discussion and editing is using [Hypothes.is](https://web.hypothes.is/). This tool allows for highlighting and annotation of any webpage on the internet. Basically, you create an account and have a browser plug-in. From there you can highlight and comment on anything you see on the web. If other people in the groups that your account participate in have done the same, you will see that on the page. [This is a link to the Hypothes.is group for the MSTP](https://hypothes.is/groups/4EM9AoyE/urmc-mstp).Please join after setting up your account, if you want to use this as an editing mechanism. [Email the editors](mailto:keshov_sharma@urmc.rochester.edu) if you run into any trouble.  
+Another method that we are piloting for discussion and editing is using [Hypothes.is](https://web.hypothes.is/). This tool allows for highlighting and annotation of any webpage on the internet. Basically, you create an account and have a browser plug-in. From there you can highlight and comment on anything you see on the web. If other people in the groups that your account participate in have done the same, you will see that on the page. [This is a link to the Hypothes.is group for the MSTP](https://hypothes.is/groups/4EM9AoyE/urmc-mstp). Please join after setting up your account, if you want to use this as an editing mechanism. [Email the editors](mailto:keshov_sharma@urmc.rochester.edu) if you run into any trouble.  
 
 You can also have a look at our [current initiatives](#current-inits) to see if there are topics that we are working on, that you would like to contribute to. If there is something of interest, [email us](mailto:keshov_sharma@urmc.rochester.edu) and we'll get you linked up with the project.
 
+Finally, as you can see form the web address, this book is currently a [Github Repo](https://github.com/keshovsharma/mstpbluebook). Thus, if you are so inclined, you can pull the repo, make edits, and request that I add them to the master branch. Within root folder, there is an R Project called "book.proj". Opening this and installing the dependencies that arrise should initialize almost everything you need to work with this book. However, this method is really not recomended unless you have expereince with the bookdown R package.
+
 ## How the Editors Edit This Book {-}
+
+While it is my dream to have a good explaintion of this someday, the core is that this book is built in bookdown for R and changes are pushed after drafting and approval of an article. You'll have to contact [Keshov](mailto:keshov_sharma@urmc.rochester.edu) if you want more details.
