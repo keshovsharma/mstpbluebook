@@ -12,7 +12,11 @@ The following sections contain "Short Sheets", which are bullet pointed lists wi
 
 - **Decide on a summer rotation:** Rotations in the summer before entering medical school [are optional (paragraph 1)](https://www.urmc.rochester.edu/education/md-phd/students/student-handbook/curriculum/year-one.aspx). Read our section on [what to consider for an incoming rotation](#inc_rot) if you would like our peer perspective on this choice.
 
+- **If you choose to do a summer rotation**, or even if you don't, [have a look at our peer-to-peer advice on finding a mentor](#finding-a-mentor). It contains a large section dedicated to factors that you should consider while planning and doing a rotation.
+
 - **Get an understanding of how [taxes](#taxes) work** as a graduate or MSTP student at URMC. Particularly, it is important to understand whether you will need to save a portion of your paychecks to [pay extra taxes at the end of your transition year.](#the-incoming-hiccup) Also, the Graduate School maintains a page of information on [Graduate Student Taxes with Powerpoints and PDF examples of forms that you can learn from.](https://www.urmc.rochester.edu/education/graduate/current-students/graduate-student-society/tax-information-for-graduate-students.aspx)
+
+- **Read our peer-to-peer advice for Human Structure and Function**, which can be found [here](#hsf). This is the first course you will take and is regarded as the most demanding one at the medical school. It's worth reading before showing up. 
 
 ### Things to Consider {-}
 
@@ -35,16 +39,18 @@ The following sections contain "Short Sheets", which are bullet pointed lists wi
 
 - **Remember that you are still responsible for paying fees to the Bursar. These are not automatically taken from your paycheck and late fees will add up if you forget to pay them**. Those emails from the Bursar should not be ignored. Here are fees for quick reference from student handbook: $1261 in Year 1, $286 in Year 2, $396 in Year 3, $671 in Year 4 medical school and $200 in graduate school; subject to modest change.
 
+- **It is defintely worth listing faculty you might want to rotate with in the upcoming summer and starting to contact them**. The more time you allocate to having conversations, the more you can thoroughly explore a number of differnt labs and find the best rotation. For some help, have a look at our [peer advice on figuring out rotations](#finding-a-mentor), particularly "Part 1: Rotating". 
+
 
 ### What if? {-}
 
-## M1: May {-}
-## M2: August {-}
 ## M2: December {-}
 
 ### Things to Do {-}
 
 - **Have another look at [taxes](#taxes), specifically the [filing taxes](#filing-taxes) section**, if you don't feel like you've got a good grasp on the action. You'll be preparing your tax paperwork in the upcoming months, so this is a reminder that this section is here to help. 
+
+- **Reflect on your previous rotations**: You've had at least one rotation during your time here and it is worthwhile to take stock of your research experiences thus far. Over the coming months, a lot of your focus will be on STEP 1 preparation, so reflecting now and setting up informational interviews for your next rotation is critical. Revisit the [reflection questions suggested to you during your rotation](#finding-a-mentor) and use them to guide your next steps.
 
 ### Things to Consider {-}
 
@@ -53,3 +59,24 @@ The following sections contain "Short Sheets", which are bullet pointed lists wi
 ### What if? {-}
 
 ## M2: April {-}
+
+### Things to Do {-}
+
+- **If you are not already aquianted with the "Finding a Mentor" article, we highly suggest you read it**. [Click here](#finding-a-mentor) and factor this advice into your thinking about an upcoming rotation and process of finalizing your mentor.
+
+### Things to Consider {-}
+### What if? {-}
+
+## G1: August {-}
+
+Ahhh, August of G1. Welcome to graduate school. Life is so simple at the start.... Buckle up! It'll get complicated soon.  
+
+### Things to Do {-}
+
+- **If you are not already aquianted with the "Finding a Mentor" article.... READ IT**. [Click here](#finding-a-mentor) and pay specific attention to the steps and reflection you should do before finalizing a mentorship.
+
+### Things to Consider {-}
+
+### What if? {-}
+
+- **I don't have a lab I'd like to join yet?...**: Assuming you've taken the advice from [Finding a Mentor](#finding-a-mentor) into consideration, your next step should be to immediately speak with Alysha and Dr. O'Banion about your rotations as well as your plans for further rotations/exploration. Consider exploring expedited rotations or sitting-in in multiple lab's meetings as a way to efficiently get exposure.
